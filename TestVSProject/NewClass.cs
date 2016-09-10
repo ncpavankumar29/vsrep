@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestVSProject
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            // Changes on Main branch from VS
-        }
     }
 }
