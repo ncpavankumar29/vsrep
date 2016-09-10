@@ -11,6 +11,7 @@ namespace TestVSProject
         static void Main(string[] args)
         {
             // Changes on Main branch from VS
+            // Feature 1.1
         }
     }
 }

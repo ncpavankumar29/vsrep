@@ -8,5 +8,6 @@ namespace TestVSProject
 {
     class NewClass
     {
+        // Featire 1/1
     }
 }
